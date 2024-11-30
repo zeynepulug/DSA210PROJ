@@ -11,7 +11,7 @@ YouTube is the app I use the most in my daily life, making it an ideal choice fo
 5) Search History: Keywords and topics I actively looked up, highlighting my evolving interests over time.
 6) Watch History: Videos I have watched, including timestamps, which will help analyze trends in viewing habits (e.g., time of day, duration, recurring themes).
 ### Future Work
-For the next part of my project I am plannig to do these steps:
+For the next part of my project I am plannig to follow these steps:
 
 1) Use web scraping to extract relevant data from .html files and convert them into .csv or .json formats.
 2) Clean and preprocess .csv files by removing duplicates, inconsistencies, and irrelevant data.
