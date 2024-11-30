@@ -10,6 +10,12 @@ YouTube is the app I use the most in my daily life, making it an ideal choice fo
 4) Comments: My interactions and thoughts shared on videos.
 5) Search History: Keywords and topics I actively looked up, highlighting my evolving interests over time.
 6) Watch History: Videos I have watched, including timestamps, which will help analyze trends in viewing habits (e.g., time of day, duration, recurring themes).
+This project aims to answer following questions:
+1) What type of content(playlists, channels, or topics) do i engage the most?
+2) What are the frequent topics in my search history, and how do they reflect my changing interests?
+3) How does my watch history connect to my subscriptions and playlists?
+4) What patterns can be identified in my watching behavior, such as frequency, time of day, or duration?
+5) Are there any notable changes or patterns in my activities over time?
 ### Future Work
 For the next part of my project I am plannig to follow these steps:
 
